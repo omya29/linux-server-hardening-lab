@@ -69,7 +69,7 @@ Key directories:
 | `cd ~/linux-security-lab` | Move into it |
 | `mkdir users permissions ssh apache firewall screenshots` | Create subfolders for each lab area |
 
-## Logs (noted, not analyzed until Day 7)
+## Logs 
 
 | Command | Purpose |
 |---|---|
